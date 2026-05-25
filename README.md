@@ -9,7 +9,7 @@ chmod +x *.sh
 ./02-up.sh
 ```
 
-Скрипт сам проверит Docker, скачает официальный проект:
+Скрипт сам скачает официальный проект:
 
 ```text
 https://github.com/Lanjetto/demo-prometeus-app
